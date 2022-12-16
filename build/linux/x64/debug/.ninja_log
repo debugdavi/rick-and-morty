@@ -1,0 +1,56 @@
+# ninja log v5
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	4d81a870e7d357d9
+18557	19666	1671040684480595055	CMakeFiles/rick_and_morty.dir/main.cc.o	abaa377188a9a616
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/libflutter_linux_gtk.so	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_engine.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	4d81a870e7d357d9
+7410	7444	0	CMakeFiles/install.util	73fe2c542e1260cf
+5879	7020	1671155497689600442	CMakeFiles/rick_and_morty.dir/flutter/generated_plugin_registrant.cc.o	3810a1d271461a8d
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/build/linux/x64/debug/flutter/_phony_	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	4d81a870e7d357d9
+31	5878	0	flutter/_phony_	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_view.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_value.h	4d81a870e7d357d9
+5878	7122	1671155497790600337	CMakeFiles/rick_and_morty.dir/my_application.cc.o	38cca5ce7f568d74
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	4d81a870e7d357d9
+31	5878	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	4d81a870e7d357d9
+7123	7410	1671155498084600032	intermediates_do_not_run/rick_and_morty	2936a6de48829acb
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/libflutter_linux_gtk.so	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_engine.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_value.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/fl_view.h	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	4d81a870e7d357d9
+4	5725	0	flutter/_phony_	4d81a870e7d357d9
+4	5725	0	/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/build/linux/x64/debug/flutter/_phony_	4d81a870e7d357d9
+5726	6611	1671155551822544249	CMakeFiles/rick_and_morty.dir/flutter/generated_plugin_registrant.cc.o	3810a1d271461a8d
+5726	6660	1671155551870544199	CMakeFiles/rick_and_morty.dir/my_application.cc.o	38cca5ce7f568d74
+6660	6926	1671155552137543922	intermediates_do_not_run/rick_and_morty	2936a6de48829acb
+6926	6967	0	CMakeFiles/install.util	73fe2c542e1260cf
