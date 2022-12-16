@@ -1,8 +1,8 @@
-# Install script for directory: /home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/linux/flutter
+# Install script for directory: /home/luvas/Área de trabalho/PDM/apps/rick-and-morty/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/luvas/Área de trabalho/PDM/apps/rick-and-morty/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

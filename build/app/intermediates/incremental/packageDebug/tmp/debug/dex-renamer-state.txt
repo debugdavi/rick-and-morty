@@ -1,4 +1,0 @@
-#Thu Dec 15 22:44:20 BRT 2022
-base.0=/home/luvas/Área de trabalho/PDM/apps/1/rick_and_morty/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
